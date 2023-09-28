@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1,CA | SPT - SPORTSNET West
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/65739.ts
+#EXTINF:-1,UK: Colors TV ˢᴰ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/552.ts
+#EXTINF:-1,IN: Star Gold Select
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/712229.ts
+#EXTINF:-1,IN: Sony Pal
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/44278.ts
+#EXTINF:-1,PT | RTP Internacional
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34237.ts
+#EXTINF:-1,PT: RTP ACORES
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/33084.ts
+#EXTINF:-1,CA | OUT TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49198.ts
+#EXTINF:-1,CA | OWN
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51066.ts
+#EXTINF:-1,USA | Cinemax 5 Star Max
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34210.ts
+#EXTINF:-1,PK: HUM Masala
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34154.ts
+#EXTINF:-1,USA | NBC Dallas
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34207.ts
+#EXTINF:-1,IN: AAJ TAK
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34204.ts
+#EXTINF:-1,IN: &prive
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34208.ts
+#EXTINF:-1,AF | Emmanuel TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34202.ts
+#EXTINF:-1,CA: Salt And Light TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34199.ts
+#EXTINF:-1,IN: CNBC TV 18
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34195.ts
+#EXTINF:-1,CA | Makeful
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34158.ts
+#EXTINF:-1,USA | Spike Outdoor
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34157.ts
+#EXTINF:-1,PK | Discover Pakistan
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34152.ts
+#EXTINF:-1,USA | CMC TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34171.ts
+#EXTINF:-1,USA | Nasa Tv
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34168.ts
+#EXTINF:-1,USA | CARTOON NETWORK [W]
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/44307.ts
+#EXTINF:-1,USA | Disney XD [W]
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/44377.ts
+#EXTINF:-1,CA | NBA TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34155.ts
+#EXTINF:-1,CA | Family Channel East
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34166.ts
+#EXTINF:-1,PK | ARY NEWS
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34163.ts
+#EXTINF:-1,USA | CNBC
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39281.ts
+#EXTINF:-1,IN: Aastha Bhajan ⓧ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34372.ts
+#EXTINF:-1,IN: MTV Beats ⓧ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34509.ts
+#EXTINF:-1,IN: 9X Jalwa
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/44374.ts
+#EXTINF:-1,USA | ScreenPix Action
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34176.ts
+#EXTINF:-1,PT | Fashion TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/43391.ts
+#EXTINF:-1,PT | Globo Premium
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/43374.ts
+#EXTINF:-1,PT | BBC Entertainment
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/43373.ts
+#EXTINF:-1,PT | BBC World News
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/43379.ts
+#EXTINF:-1,USA | FOX Sports Prime Ticket
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/60616.ts
+#EXTINF:-1,UK: MUTV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/307.ts
+#EXTINF:-1,IN: Sony WAH
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/43346.ts
+#EXTINF:-1,IN: CNBC Awaaz
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34120.ts
+#EXTINF:-1,USA | Oxygen East
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/44324.ts
+#EXTINF:-1,IN: BBC EARTH
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/44354.ts
+#EXTINF:-1,USA | KCAL 9 Los Angeles
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/33919.ts
+#EXTINF:-1,USA | Los Angeles ABC 7
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34002.ts
+#EXTINF:-1,CA | Bravo
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/44365.ts
+#EXTINF:-1,IN: Aastha TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/60615.ts
+#EXTINF:-1,IN: Music India
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/60604.ts
+#EXTINF:-1,IN: &Explor ⓧ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34000.ts
+#EXTINF:-1,PK | 92 News
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34370.ts
+#EXTINF:-1,AF | Big Brother Naija
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34115.ts
+#EXTINF:-1,USA | Next Level Sports
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34367.ts
+#EXTINF:-1,IN: HISTORY TV 18
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/44347.ts
+#EXTINF:-1,PK | Hum News
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/44358.ts
+#EXTINF:-1,TR | BEIN SPORTS 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/43369.ts
+#EXTINF:-1,TR | BEIN SPORTS 3
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/60113.ts
+#EXTINF:-1,TR | BEIN SPORTS 5
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/60124.ts
+#EXTINF:-1,IT | Sky Sport 251
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/43951.ts
+#EXTINF:-1,IT | Sky Sport Football
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/43952.ts
+#EXTINF:-1,PK: GREEN TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/43341.ts
+#EXTINF:-1,UK: Zee Cafe
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/44247.ts
+#EXTINF:-1,CA | BET
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/33594.ts
+#EXTINF:-1,USA | New York NBC 4
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/43337.ts
+#EXTINF:-1,USA | CBS 2 New York
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/43357.ts
+#EXTINF:-1,USA | New York FOX 5
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/60115.ts
+#EXTINF:-1,USA | New York ABC 7
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/60122.ts
+#EXTINF:-1,USA | The CW New York
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/44363.ts
+#EXTINF:-1,IN: WION TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/33407.ts
+#EXTINF:-1,PK | Lahore Rang
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/60477.ts
